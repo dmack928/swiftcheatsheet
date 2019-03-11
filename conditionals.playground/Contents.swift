@@ -40,6 +40,6 @@ for i in 1...10 {
 }
 
 //decremental
-for i in (0 ..< 10).reversed() {
-    print(i) 
+for i in 0 ..< 10 {
+    print(i)
 }
